@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html">Magento 2 CMS Block Scheduler And Targeting by WeltPixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 CMS Block Scheduler And Targeting by WeltPixel.</a></h1>
 <br/><br/>
 <table>
   <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html"><img src="https://www.weltpixel.com/media/catalog/product/0/9/09._cms_block_schedule_1_1.png" alt="CMS Block Scheduler And Targeting"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/0/9/09._cms_block_schedule_1_1.png" alt="CMS Block Scheduler And Targeting"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
 <h2>ABOUT THE MAGENTO 2 CMS BLOCK SCHEDULER EXTENSION.</h2>
                         <ul>
@@ -29,8 +29,8 @@ The Magento 2 CMS Block Scheduler Extension works right out of the box! Simply i
 The CMS Block Scheduler and Targeting is optimized to be fully compatible with Magento Full Page Cache (FPC) and Varnish Cache
                         </p>
                          </ul>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html">CMS Block Scheduler And Targeting.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">CMS Block Scheduler And Targeting.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
 </div></td>
  </tr>
 </table>
@@ -181,8 +181,8 @@ The CMS Block Scheduler and Targeting is optimized to be fully compatible with M
                         </ul> 
                         <h2>Magento Marketplace Installation.</h2>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
  <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -296,4 +296,4 @@ The Tags can be filtered by ID number, identify the tag id under WeltPixel > CMS
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html">Magento 2 CMS Block Scheduler And Targeting by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento2-cms-block-scheduler.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 CMS Block Scheduler And Targeting by WeltPixel.</a></h3>
